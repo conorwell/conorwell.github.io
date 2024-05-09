@@ -3,7 +3,7 @@
   padding: 0;
 }
 
-body {
+#body {
   width: 100%;
   background-image: url("background.jpeg");
   backgound-position: center;
@@ -22,6 +22,7 @@ body {
 }
 
 .nav {
+  background-color: #E6E6FA;
   color: #000000;
   list-style: none;
   text-align: center;
