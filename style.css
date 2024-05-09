@@ -114,9 +114,10 @@ box-shadow: 0px 0px 20px #CCD9C8;
   text-align: left;
 }
 img {
-    width: 25%;
+    width: 50%;
     height: auto;
     border: 5px solid #555;
+    margin: 10px;
 }
 
 
