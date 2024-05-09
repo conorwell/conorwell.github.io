@@ -65,6 +65,7 @@ box-shadow: 0px 0px 20px #CCD9C8;
 #aboutme{
   text-align:center;
   font-size:20;
+  position: fixed;
 }
 
 #logo{
