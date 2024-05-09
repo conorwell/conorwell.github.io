@@ -5,11 +5,11 @@
   font-family: 'Ariel',serif;
   font-size: 20;
   position: fixed;
-  width: 90%;
+  width: 100%;
 }
 
 .nav {
-  background-color: #E6E6FA;
+  background-color: #3EB489;
   color: #000000;
   list-style: none;
   text-align: center;
@@ -81,7 +81,7 @@ img {
 
 footer{
   width: 100%;
-  background-color: #E6E6FA;
+  background-color: #3EB489;
   text-align: center;
   color: #000000;
   padding: 25px 25px 25px 25px;
