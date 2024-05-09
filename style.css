@@ -39,6 +39,7 @@ box-shadow: 0px 0px 20px #CCD9C8;
   border-color: #000000;
   border-radius: 10px;
   padding: 7px 21px;
+  transition: 0.7s;
 }
 .prjct-btn:hover{
   background-color: #3EB489;
