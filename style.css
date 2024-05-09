@@ -5,19 +5,16 @@
 
 #body {
   width: 100%;
-  background-image: url("background.jpeg");
-  backgound-position: center;
-  background-size: cover;
-  height: 100vh;
-  position: relative;
-  
+  background-color: #000000;
 }
 
 #mybar{
   margin: 0;
   padding: 0;
+  width: 90%;
   font-family: 'Ariel',serif;
   font-size: 20;
+  position: fixed;
 
 }
 
