@@ -3,7 +3,7 @@
   padding: 0;
 }
 
-.main {
+body {
   width: 100%;
   background-image: url("background.jpeg");
   backgound-position: center;
