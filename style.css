@@ -105,6 +105,7 @@ box-shadow: 0px 0px 20px #CCD9C8;
 img {
     width: 50%;
     height: auto;
+    border: 5px solid #555;
 }
 
 
