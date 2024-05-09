@@ -6,8 +6,17 @@
 
 }
 
-.nav {
+.main {
+  width: 100%;
   background-image: url("background.jpeg");
+  backgound-position: center;
+  background-size: cover;
+  height: 100vh;
+  position: relative;
+  
+}
+
+.nav {
   color: #000000;
   list-style: none;
   text-align: center;
