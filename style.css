@@ -25,6 +25,7 @@ background-color: #f6f3eb;
 .social-btn{
   background-color: #f6f3eb;
   border-width: #f6f3eb;
+  padding: 12px 16px; /* Some padding */
 }
 
 .class{
