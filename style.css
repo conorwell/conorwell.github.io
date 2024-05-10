@@ -129,4 +129,12 @@ img {
 
 .bolded { font-weight: bold; }
 
+.footer {
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #3EB489;
+  color: black;
+  text-align: center;
+}
 
