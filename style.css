@@ -30,6 +30,7 @@ background-color: #E7D4C0;
   top: 0;
     left: 0;
     z-index: 999;
+  border-radius: 10px;
 }
 
 .nav {
