@@ -65,6 +65,12 @@ box-shadow: 0px 0px 20px #CCD9C8;
   color: #000000;
 }
 
+#fixed-text{
+  positon: fixed;
+}
+#fixed-imgs{
+  position: fixed;
+}
 
 #logo{
   text-align: center;
