@@ -35,6 +35,12 @@ background-color: #f6f3eb;
     transition: 0.7s;
   box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
 }
+.youtube-btn{
+  color:transparent
+}
+.youtube-btn{
+  color:black
+}
 
 .class{
   cursor: url(images-folder/cursor-image.png), auto;
