@@ -118,13 +118,14 @@ box-shadow: 0px 0px 20px #CCD9C8;
 }
 
 #pic{
-  text-align: left;
+  text-align: center;
 }
 img {
-    width: 100%;
+    width: 50%;
     height: auto;
     border: 5px solid #555;
     margin: 10px;
+  
 }
 
 
