@@ -27,6 +27,9 @@ background-color: #f6f3eb;
   border-width: #f6f3eb;
 }
 
+.class{
+  cursor: url(images-folder/cursor-image.png), auto;
+}
 
 #mybar{
   margin: 0;
