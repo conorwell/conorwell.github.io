@@ -24,8 +24,10 @@ background-color: #f6f3eb;
 }
 .social-btn{
   background-color: #f6f3eb;
-  border-width: #f6f3eb;
   padding: 12px 16px; /* Some padding */
+  border: none;
+  background: none;
+  border-radius: 7px;
 }
 .social-btn:hover{
   background-color: #3EB489;
