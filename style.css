@@ -28,6 +28,7 @@ background-color: #f6f3eb;
   border: none;
   background: none;
   border-radius: 7px;
+  transition: 0.7s;
 }
 .social-btn:hover{
   background-color: #3EB489;
