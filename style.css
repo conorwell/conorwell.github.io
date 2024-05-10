@@ -24,10 +24,13 @@ background-color: #f6f3eb;
 }
 .social-btn{
   width: 10px;
+  height: 10px;
   background-color: #f6f3eb;
 }
 .logo{
   border-width: 0px;
+  width:10px;
+  height:10px;
 }
 
 #mybar{
@@ -67,10 +70,6 @@ background-color: #f6f3eb;
   text-align: center;
 }
 
-#logo{
-  text-align: center;
-  font-size: 30;
-}
 
 #myear{
   text-align: center;
