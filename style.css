@@ -67,6 +67,7 @@ box-shadow: 0px 0px 20px #CCD9C8;
 
 #fixed-text{
   positon: fixed;
+  width: 40%;
 }
 #fixed-imgs{
   position: fixed;
