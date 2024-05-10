@@ -7,7 +7,7 @@ background-color: #E7D4C0;
 
 
 .prjct-btn{
-  background-color: #FF75D8;
+  background-color: #E7D4C0;
   color: #000000;
   border-width: 3px;
   border-color: #000000;
@@ -15,7 +15,7 @@ background-color: #E7D4C0;
   padding: 20px 60px;
   transition: 0.7s;
   min-width: 100px;
-  font-size: 40px;
+  width: 100%;
 }
 .prjct-btn:hover{
   background-color: #3EB489;
