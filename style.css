@@ -65,12 +65,6 @@ box-shadow: 0px 0px 20px #CCD9C8;
   color: #000000;
 }
 
-#fixed-text{
-  positon: fixed;
-  text-align: center;
-  width:40%;
-}
-
 #fixed-imgs{
   position: fixed;
   width: 40%;
