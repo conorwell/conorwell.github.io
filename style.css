@@ -139,16 +139,14 @@ body {
 }
 
 .cursor-dot {
-    $size: 8px;
-    width: $size;
-    height: $size;
+    width: 8px;
+    height: 8px;
     background-color: #3EB489;
 }
 
 .cursor-dot-outline {
-    $size: 40px;
-    width: $size;
-    height: $size;
+    width: 40px;
+    height: 40pc;
     background-color: rgba(#3EB489, 0.5);
 }
 
