@@ -39,8 +39,9 @@ background-color: #f6f3eb;
   color: rgba(0, 0, 0, 0.5);
   border: none;
   padding: 40px 120px;
+  background-position:center;
 }
-.youtube-btn{
+.youtube-btn:hover{
   color:black;
 }
 
