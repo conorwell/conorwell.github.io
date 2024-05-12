@@ -35,20 +35,12 @@ background-color: #f6f3eb;
     transition: 0.7s;
   box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
 }
-.multiverse-btn{
-  color: rgba(0, 0, 0, 0.5);;
-  border: none;
-  background: multiverse.jpeg;
-}
-.multiverse-btn{
-  color:black;
-}
-.phoenix-btn{
+.youtube-btn{
   color: rgba(0, 0, 0, 0.5);
   border: none;
-  background: multiverse.jpeg;
+  padding: 40px 120px;
 }
-.phoenix-btn{
+.youtube-btn{
   color:black;
 }
 
