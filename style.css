@@ -36,7 +36,7 @@ background-color: #f6f3eb;
   box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
 }
 .phoenix-btn{
-  color: transparent;
+  color: rgba(0, 0, 0, 0.5);
   border: none;
   padding: 40px 120px;
   background-image: url('phoenix.jpeg');
@@ -46,7 +46,7 @@ background-color: #f6f3eb;
   color:black;
 }
 .multiverse-btn{
-  color: transparent;
+  color: rgba(0, 0, 0, 0.5);
   border: none;
   padding: 40px 120px;
   background-image: url('multiverse.jpeg');
