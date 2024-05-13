@@ -36,26 +36,28 @@ background-color: #f6f3eb;
   box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
 }
 .phoenix-btn{
-  color: rgba(0, 0, 0, 0.5);
+  color: rgba(0, 0, 0, 0.01);
   border: none;
   padding: 40px 120px;
   background-image: url('phoenix.jpeg');
   background-position:center;
-  background-size: 500px;
+  background-size: 1000px;
   transition: 0.7s;
+  width: 45%;
 }
 .phoenix-btn:hover{
   transition: 0.7s;
   color: #FFFFFF;
 }
 .multiverse-btn{
-  color: rgba(0, 0, 0, 0.5);
+  color: rgba(0, 0, 0, 0.01);
   border: none;
   padding: 40px 120px;
   background-image: url('multiverse.jpeg');
   background-position:center;
-  background-size: 500px;
+  background-size: 1000px;
   transition: 0.7s;
+  width: 50%;
 }
 .multiverse-btn:hover{
   transition: 0.7s;
