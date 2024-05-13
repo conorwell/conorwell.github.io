@@ -41,9 +41,9 @@ background-color: #f6f3eb;
   padding: 40px 120px;
   background-image: url('phoenix.jpeg');
   background-position:center;
-  background-size: 100px;
+  background-size: 300px;
   transition: 0.7s;
-  width: 90%;
+  width: 125%;
 }
 .phoenix-btn:hover{
   transition: 0.7s;
@@ -55,9 +55,9 @@ background-color: #f6f3eb;
   padding: 40px 120px;
   background-image: url('multiverse.jpeg');
   background-position:center;
-  background-size: 100px;
+  background-size: 300px;
   transition: 0.7s;
-  width: 90%;
+  width: 125%;
 }
 .multiverse-btn:hover{
   transition: 0.7s;
