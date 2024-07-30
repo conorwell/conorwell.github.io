@@ -2,7 +2,7 @@ root {
 display: block;
 }
 body {
-background-color: #f6f3eb;
+background-color: #FAF9F6;
 }
 
 h2{
@@ -11,7 +11,7 @@ h2{
 
 
 .prjct-btn{
-  background-color: #f6f3eb;
+  background-color: #FAF9F6;
   color: #000000;
   border-width: 3px;
   border-color: #000000;
@@ -27,7 +27,7 @@ h2{
   box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
 }
 .social-btn{
-  background-color: #f6f3eb;
+  background-color: #FAF9F6;
   padding: 12px 16px; /* Some padding */
   border: none;
   background: none;
